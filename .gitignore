@@ -1,0 +1,6 @@
+unet_*
+unetpp_*
+results_*
+weights
+logs
+manet_*

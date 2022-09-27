@@ -1,0 +1,9 @@
+experiment - (smp.Unet with resnet50)
+
+unet_classic_0fec7b2f9650ac86 0.48 
+unet_classic_23a5f1010f9d484b 0.518
+unet_classic_03b26a221c02feb1 0.529
+
+usual unet
+unet_d3d9256a37cdea4a 0.536
+unet_d3d9256a37cdea4a_cubic 0.548
